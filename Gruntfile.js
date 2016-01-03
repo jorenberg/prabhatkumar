@@ -48,3 +48,7 @@
 // @method    : grunt.registerTask(task-name)
 
 // Grunt Task(s):---------------------------------------------------------
+// 1. Task for "Linter" - HTML, SCSS, stylus, CSS, CoffeeScript & JavaScript,
+// 2. Task for "Minifier" - HTML and CSS,
+// 3. Task for "Clean files and folders",
+// 4. Task for "Assemble": Default, and
