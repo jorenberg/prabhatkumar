@@ -34,3 +34,9 @@
 
 /* Invoking strict mode. */
 "use strict";
+
+/* ______________________________________________
+ * Settings for Test System.                    |
+ * _____________________________________________|
+ */
+var TESTSERVER_PORT   = 8080;
