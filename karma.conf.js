@@ -31,3 +31,6 @@
 // main module.
 // @require   : karma
 // @require   : grunt-karma
+
+/* Invoking strict mode. */
+"use strict";
