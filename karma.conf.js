@@ -30,3 +30,4 @@
 // =========================
 // main module.
 // @require   : karma
+// @require   : grunt-karma
